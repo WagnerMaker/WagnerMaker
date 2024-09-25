@@ -18,21 +18,9 @@ Sou um entusiasta e educador na área de fabricação digital, especializado em 
 - 📫 **E-mail:** [wagner3dmaker@gmail.com](mailto:wagner3dmaker@gmail.com)
 - **YouTube:** [WagnerMaker](https://www.youtube.com/@wagnermaker)
 - **TikTok:** [@WagnerMaker](https://www.tiktok.com/@WagnerMaker)
-- **GitHub:** Você já está aqui! Explore meus repositórios e sinta-se à vontade para contribuir.
-
+- **GitHub:** [Wagnermaker] Veja também [Waghan2]
+- **Perfil:** https://sites.google.com/view/wagnerdev/p%C3%A1gina-inicial
 ## Curiosidades
 
 - ⚡ **Recursos Disponíveis:** Aqui no meu GitHub, você encontrará projetos de CNC, impressoras 3D, códigos para Arduino, esquemas de controladores de motores de passo e muito mais para ajudar em seus próprios projetos.
 - 😄 **Pronomes:** ele/dele
-
----
-
-Sinta-se à vontade para editar ou adicionar qualquer informação que considere relevante. Este formato utiliza cabeçalhos e listas para organizar o conteúdo, tornando-o mais atraente e fácil de ler.
-
-**Dicas adicionais:**
-
-- **Adicionar Imagens ou Banners:** Você pode incluir imagens ou banners para tornar seu perfil ainda mais personalizado.
-- **Links para Outros Projetos ou Sites:** Se tiver outros sites ou perfis em redes sociais, pode adicioná-los também.
-- **Seção de Destaques:** Considere adicionar uma seção destacando seus projetos mais populares ou recentes.
-
-Espero que esta versão atenda às suas expectativas! Se precisar de mais assistência ou quiser fazer mais ajustes, estou à disposição para ajudar.
